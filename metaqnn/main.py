@@ -15,7 +15,7 @@ import os
 from metaqnn.grammar import q_learner
 from metaqnn.training.tensorflow_runner import TensorFlowRunner
 
-
+#Ci siamo riusciti sium
 class TermColors(object):
     HEADER = '\033[95m'
     YELLOW = '\033[93m'
